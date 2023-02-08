@@ -1,0 +1,13 @@
+.icon {
+    width: 50px;
+}
+
+.icon_container span {
+    padding-left: 7px;
+    padding-top: 15px;
+}
+
+.icon_container div {
+    margin-top: 10px;
+    display: flex;
+}
